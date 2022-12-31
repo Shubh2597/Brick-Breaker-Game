@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="307.0" prefWidth="478.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.shubham_brickbreakergame.HelloApplication">
+   <children>
+      <Button layoutX="124.0" layoutY="115.0" mnemonicParsing="false" onAction="#Onstartbuttonclick" prefHeight="46.0" prefWidth="205.0" style="-fx-alignment: Center; -fx-background-color: Green;" text="Start The Game" textFill="#cc2f0e">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
